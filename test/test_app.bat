@@ -1,5 +1,5 @@
-### test_app.bat - 201x - Fabien Desert ###
-version = "1.2.0-b"
+### test.bat- 201x - Fabien Desert ###
+version = "2.0.0"
 build_hour = "11H00"
 
 echo "Build ${build_hour}"
