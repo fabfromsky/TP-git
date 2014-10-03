@@ -1,4 +1,6 @@
-###application.bat - 210x - Fabien Desert###
-echo "Copyright m&m  - 201x"
-echo "Build:10:00"
-echo "version1.1"
+### application.bat - 201x - Fabien Desert ###
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
